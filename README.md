@@ -1,0 +1,4 @@
+pepsicoin
+=========
+
+Cryptocurrency coin
